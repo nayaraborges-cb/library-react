@@ -1,5 +1,3 @@
-# Sem título
-
 # Library-API
 
 ## Visão Geral
